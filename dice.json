@@ -1,0 +1,78 @@
+{
+ "allof": {
+  "bonus": [
+   "mushrooms", 
+   "bacon", 
+   "nuts", 
+   "onions", 
+   "lemons", 
+   "garlic"
+  ], 
+  "grainscarbs": [
+   "rice", 
+   "quinoa", 
+   "pasta", 
+   "polenta", 
+   "potato", 
+   "millet"
+  ], 
+  "herbs": [
+   "rosemary", 
+   "basil", 
+   "oregano", 
+   "cilantro", 
+   "thyme", 
+   "dill"
+  ], 
+  "meats": [
+   "beef", 
+   "chicken", 
+   "turkey", 
+   "fish", 
+   "pork", 
+   "lamb"
+  ], 
+  "methods": [
+   "grill", 
+   "roast/bake", 
+   "broil", 
+   "saute", 
+   "pan fry", 
+   "braise"
+  ]
+ }, 
+ "oneof": {
+  "fallveggies": [
+   "mustard greens", 
+   "brussel sprouts", 
+   "squash", 
+   "chard", 
+   "broccoli", 
+   "arugula"
+  ], 
+  "springveggies": [
+   "dandelion greens", 
+   "peas", 
+   "asparagus", 
+   "antichokes", 
+   "spinach", 
+   "radishes"
+  ], 
+  "summerveggies": [
+   "bell peppers", 
+   "zucchini", 
+   "eggplant", 
+   "tomatoes", 
+   "corn", 
+   "green beans"
+  ], 
+  "winterveggies": [
+   "carrots", 
+   "parsnips", 
+   "cabbage", 
+   "fennel", 
+   "endives", 
+   "kale"
+  ]
+ }
+}
