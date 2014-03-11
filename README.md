@@ -12,11 +12,25 @@ installing
 
 Just evoke the provided setup script:
 
- python3 setup.py install
+    python3 setup.py install
 
 with whatever user rights you wish. For more information, use:
 
- python3 setup.py --help (or --help-commands)
+    python3 setup.py --help (or --help-commands)
+
+demo output
+===========
+
+generates output like this:
+
+    A nice randomized winter recipe:
+    garlic
+    potato
+    basil
+    turkey
+    roast/bake
+    endives
+
 
 plan & bugs
 ===========
